@@ -1,6 +1,4 @@
 {
-  "private": true,
-  "author":"dingff <@521125z>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
