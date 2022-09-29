@@ -1,4 +1,6 @@
 export default {
   npmClient: 'pnpm',
-  mpa: {},
+  mpa: {
+    layout: '@/layouts/index.tsx'
+  },
 };
