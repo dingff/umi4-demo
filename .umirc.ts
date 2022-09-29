@@ -1,3 +1,5 @@
 export default {
-  npmClient: 'pnpm'
+  npmClient: 'pnpm',
+  mpa: {},
+  vite: {}
 };
