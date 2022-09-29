@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <div className={styles.title}>
       <h2>Yay! Welcome to umi!</h2>
-      <div>444666</div>
+      <div className='big'>哈哈哈哈哈</div>
       <p>
         <img src={yayJpg} width="388" />
       </p>
