@@ -1,6 +1,9 @@
 export default {
   npmClient: 'pnpm',
   mpa: {
-    layout: '@/layouts/index.tsx'
+    template: 'index.html',
+    layout: '@/layouts/mpa/index.tsx'
   },
+  plugins: ['./build.plugin.ts'],
+  runtimePublicPath: {},
 };
