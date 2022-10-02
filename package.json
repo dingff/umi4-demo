@@ -9,6 +9,7 @@
   "dependencies": {
     "@alifd/next": "^1.26.2",
     "moment": "2.29.4",
+    "open": "^8.4.0",
     "umi": "^4.0.23"
   },
   "devDependencies": {

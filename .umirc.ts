@@ -5,5 +5,6 @@ export default {
     layout: '@/layouts/mpa/index.tsx'
   },
   plugins: ['./build.plugin.ts'],
-  runtimePublicPath: {},
+  publicPath: './',
+  devPublicPath: '/rpt/',
 };
